@@ -18,6 +18,7 @@ lab-report/
 ├── train.py                                              # 模型训练脚本
 ├── infer.py                                              # 目标检测推理脚本
 └── README.md                                             # 项目说明文档
+
 🛠️ 环境搭建
 1. 创建虚拟环境
 bash
